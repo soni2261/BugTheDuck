@@ -1,2 +1,2 @@
-# unconventional-community-bot
-discord bot for unconventional profiles
+# bugtheduck
+BugTheDuck is a discord bot for Unconventional Community profiles
