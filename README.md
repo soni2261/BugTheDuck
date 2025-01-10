@@ -1,7 +1,7 @@
-# BugTheDuck Discord Bot
+# BugTheDuck Discord Bot 🤖
 The Unconventional Community's dedicated bot, BugTheDuck, was created to facilitate communication between members and connect them together to create new projects. It's the ideal tool for discovering teammates, collaborators, and generating new ideas because it has tools to highlight abilities, portfolios, and previous projects.
 
-## Features: 
+## Features ✨ 
 
 #### Profile Creation
 ##### Command: `/create` is the command for creating a profile.
@@ -27,7 +27,7 @@ The Unconventional Community's dedicated bot, BugTheDuck, was created to facilit
 - Portfolio: See examples of previous work and projects.
 - Social Media Links: Establish connections with participants on various networks.
 
-## Advantages
+## Advantages ✅
 
 Locate Teammates Easily
  - Look for individuals that possess the precise abilities you require for your initiatives.
@@ -38,7 +38,7 @@ Present Yourself
 Boost Relationships
  - Make use of the profile links supplied to establish deep connections both inside and beyond the community.
 
-## Getting Started
+## Getting Started ▶️
 #### Step 1: Include the Bot
 Make sure your server has BugTheDuck added.
 
@@ -48,7 +48,7 @@ To add your information, including projects, interests, and portfolio links, run
 #### Step 3: View the profiles of members
 To find out more about other members, their interests, and their current projects, use /view @username.
 
-## Command Description and Summary
+## Command Description and Summary 🖊️
 
 | Command | Description | Example |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ To find out more about other members, their interests, and their current project
 | `/view` | View your own profile | `/view` |
 | `/view @username` | View another member's profile | `/view @Sonia` |
 
-## Participating
+## Participating 🙋🏻‍♂️
 Members of the Unconventional Community created the tool BugTheDuck. Contributions and suggestions are always appreciated.
 
 To participate:
@@ -65,9 +65,10 @@ To participate:
 - Get in touch to share ideas or code.
 
 
-## Anticipated Updates
+## Anticipated Updates 🔄
 Advanced search features for locating profiles according to project interests or skill sets.
+Containerization in Docker for usability
 
 
-## Contributing
+## Contributing 🤝
 BugTheDuck was created to help the Unconventional Community fulfill its goal of combining creativity from diverse skills to make ideas a reality.
