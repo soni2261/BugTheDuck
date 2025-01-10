@@ -31,8 +31,10 @@ The Unconventional Community's dedicated bot, BugTheDuck, was created to facilit
 
 Locate Teammates Easily
  - Look for individuals that possess the precise abilities you require for your initiatives.
+
 Present Yourself
  - Showcase your prior work and portfolio to draw in collaborators.
+
 Boost Relationships
  - Make use of the profile links supplied to establish deep connections both inside and beyond the community.
 
