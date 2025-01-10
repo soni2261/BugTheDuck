@@ -1,4 +1,4 @@
-# BugTheDuck Discord Bot 🤖
+# BugTheDuck Discord Bot 🦆
 The Unconventional Community's dedicated bot, BugTheDuck, was created to facilitate communication between members and connect them together to create new projects. It's the ideal tool for discovering teammates, collaborators, and generating new ideas because it has tools to highlight abilities, portfolios, and previous projects.
 
 ## Features ✨ 
