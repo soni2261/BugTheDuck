@@ -66,8 +66,8 @@ To participate:
 
 
 ## Anticipated Updates 🔄
-Advanced search features for locating profiles according to project interests or skill sets.
-Containerization in Docker for usability
+- Advanced search features for locating profiles according to project interests or skill sets.
+- Containerization in Docker for usability
 
 
 ## Contributing 🤝
